@@ -1,6 +1,13 @@
 html{
     background-color: #CD0000;
+    max-width: 320px;
+    margin: 0 auto;
 }
+
+.no-decortion-text{
+    text-decoration: none;
+}
+
 
 /* page1 */
 .onboarding-2 {
@@ -15,7 +22,7 @@ html{
   .small-circle-yello {
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    background: url('../images/bg-vintage1.jpeg');
+    background: url('../images/background/bg-vintage1.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -52,3 +59,567 @@ html{
   }
 
 /* end page 1 */
+
+
+/* page 2 */
+
+.ellipse-7-page-2 {
+    filter: blur(35px);
+    border-radius: 86px;
+    background: #FDC82F;
+    position: relative;
+    align-self: flex-start;
+    width: 172px;
+    height: 172px;
+  }
+  .ellipse-6-page-2 {
+    filter: blur(35px);
+    border-radius: 86px;
+    background: #FDC82F;
+    position: absolute;
+    top: -67px;
+    right: -41px;
+    width: 172px;
+    height: 172px;
+  }
+  .group-24-page-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    background: url('../images/background/take.jpeg') 50% / cover no-repeat;
+    position: relative;
+    margin: 0 0 21px 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 85px 1px 0 0;
+    width: calc(100% - 32px);
+    box-sizing: border-box;
+  }
+  .group-25-page-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    background: url('../images/background/away.jpeg') 50% / cover no-repeat;
+    position: relative;
+    margin: 0 0 44px 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 85px 1px 0 0;
+    width: calc(100% - 32px);
+    box-sizing: border-box;
+  }
+  .group-23-page-2 {
+    border-radius: 23px;
+    position: relative;
+    margin: 0 12.3px 54px 12.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 0 9.3px;
+    box-sizing: border-box;
+  }
+  .rectangle-10-page-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+    position: absolute;
+    left: 50%;
+    top: 2.2px;
+    translate: -50% 0;
+    width: 35.3px;
+    height: 34.8px;
+  }
+  .cls-5-xvrc-ufnz-77-dir-wkw-xb-sht-tvhy-s-6-vkyw-uuxbknr-xssce {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #FF0000;
+  }
+  .rectangle-12-page-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    background: rgba(255, 199, 0, 0.85);
+    position: absolute;
+    left: 50%;
+    top: 83px;
+    translate: -50% 0;
+    width: 256px;
+    height: 30px;
+  }
+  .bawa-pulang-page-2 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .component-1-page-2 {
+    border-radius: 23px;
+    background: rgba(255, 255, 255, 0.35);
+    position: relative;
+    margin: 0 0 45.4px 41px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding: 6.8px 11px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .onboarding-3-page-2 {
+    background-color: #CD0000;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 32px 0 0;
+    box-sizing: border-box;
+  }
+  .small-circle-yello-page-2 {
+    border-radius: 500px;
+    background: #B01010;
+    position: absolute;
+    top: -216px;
+    right: -340px;
+    width: 1000px;
+    height: 1000px;
+  }
+  .rectangle-101-page-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    background: rgba(255, 199, 0, 0.93);
+    position: absolute;
+    left: 50%;
+    top: 83px;
+    translate: -50% 0;
+    width: 256px;
+    height: 30px;
+  }
+  .makan-disini-page-2 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .skip-page-2 {
+    margin-right: 5.8px;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .material-symbols-lightnavigate-next-page-2 {
+    margin: 0.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 6px;
+    height: 10.6px;
+    box-sizing: border-box;
+  }
+  .vector-page-2 {
+    width: 6px;
+    height: 10.6px;
+  }
+
+/* end page 2 */
+
+/* page 3 */
+.page-3-container {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13.5px 2px 14.6px 0;
+    height: 45.1px;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-onboarding-6 {
+    background: #DDDDDD;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    box-sizing: border-box;
+  }
+  .page-3-group-23 {
+    border-radius: 23px;
+    position: relative;
+    margin: 0 53.3px 170px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 9.3px;
+    box-sizing: border-box;
+  }
+  .page-3-rectangle-10 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+    position: absolute;
+    left: 50%;
+    top: 2.2px;
+    translate: -50% 0;
+    width: 35.3px;
+    height: 34.8px;
+  }
+  .cls-7-joq-1-m-6-r-59-hxjn-ytzhtv-p-3-k-3-oy-rah-9-lbj-2-zg-7-eax-n-3-nv {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #FF0000;
+  }
+  .page-3-asset-11 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/trialprojects/trial-Tj2R9zAG9ep7GF8MzqGMKr/assets/images/bfb036ec00a4dc6b570f22a9b51885e83d3e1975?Expires=1710998251&KeyName=fn12-cdn&Signature=G50TDeCF682RtSEX9jdAZpAhaJM=') 50% / cover no-repeat;
+    margin-top: 9px;
+    width: 120px;
+    height: 200px;
+  }
+  .page-3-keys {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23px;
+    height: 17px;
+    box-sizing: border-box;
+  }
+  .page-3-1 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-27 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-group-28 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-2 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-29 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-3 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-30 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-4 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-31 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-5 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-32 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-6 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-33 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-7 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-group-34 {
+    border-radius: 7px;
+    background: #A8A8A8;
+    position: relative;
+    margin-right: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-8 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-9 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-0 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-a-mbil-nomor-meja {
+    margin: 0 0 10px 11px;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .page-3-line-1 {
+    background: #CBCBCB;
+    margin: 0 0 5px 1px;
+    width: 274px;
+    height: 1px;
+  }
+  .page-3-ok {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .page-3-line-3 {
+    background: #C1C1C1;
+    margin: 2.5px 0;
+    width: 1px;
+    height: 38px;
+  }
+  .page-3-810 {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.15);
+  }
+  .page-3-group-35 {
+    border-radius: 7px;
+    background: #C10000;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7px 0 9.1px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-container-11 {
+    border-radius: 29px 29px 0 0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 22px 48.9px 23px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .page-3-container-12 {
+    margin: 0 5px 4.4px 4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 9px);
+    box-sizing: border-box;
+  }
+  .page-3-container-13 {
+    border-radius: 12px;
+    background: rgba(217, 217, 217, 0.5);
+    position: relative;
+    margin: 0 5px 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3.5px 20px 2.5px 0;
+    width: calc(100% - 5px);
+    box-sizing: border-box;
+  }
+  .page-3-container-14 {
+    margin: 0 5px 4.4px 4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 9px);
+    box-sizing: border-box;
+  }
+  .page-3-container-15 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-container-16 {
+    margin: 0 5px 5px 4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 9px);
+    box-sizing: border-box;
+  }
+  .page-3-container-17 {
+    border-radius: 7px;
+    background: #D9D9D9;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px 0;
+    flex-grow: 1;
+    flex-basis: 86px;
+    box-sizing: border-box;
+  }
+  .page-3-container-18 {
+    margin: 0 12.3px 9px 12.3px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .page-3-container-19 {
+    margin: 0 5px 0 4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 9px);
+    box-sizing: border-box;
+  }
+  .page-3-union {
+    width: 23px;
+    height: 17px;
+  }
+/* end page 3 */

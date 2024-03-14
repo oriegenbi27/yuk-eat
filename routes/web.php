@@ -11,6 +11,9 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
 Route::match(['GET', 'POST'], '/', [PageController::class, 'index'])->name('fe.home');
+Route::match(['GET', 'POST'], 'pilih_makan', [PageController::class, 'pilih_makan'])->name('fe.pilih_makan');
+Route::match(['GET', 'POST'], 'nomor_antrian/{jenis}', [PageController::class, 'nomor_antrian'])->name('fe.nomor_antrian');
+
 
 Auth::routes();
 

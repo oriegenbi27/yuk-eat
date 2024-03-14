@@ -9,7 +9,7 @@
                 <div class="small-circle-yello">
                 </div>
                 <div class="component-1">
-                    <a href="" class="skip">
+                    <a href="{{ route('fe.pilih_makan') }}" class="skip">
                         Mulai Pemesanan
                     </a>
                 </div>
